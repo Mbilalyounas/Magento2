@@ -27,4 +27,5 @@
 !/update/.htaccess
 !/README.md
 !/.github
+!/database_porto2_4.0.4.sql.zip
 !/.github/*
